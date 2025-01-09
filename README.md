@@ -1,20 +1,24 @@
 # Awesome-Disordered-Speech
 
-There are some papers about Disordered Speech, Dysarthric and Elderly Speech.
+There are some papers about Disordered Speech, Dysarthric and Elderly Speech or Alzheimer’s Disease.
 
 
 ## Survey paper
 * Recent Progress in the CUHK Dysarthric Speech Recognition System in *TASLP* 2021, [\[paper\]](https://arxiv.org/abs/2201.05845)
 
-## Journal paper
+## Journal paper & preprint
 
 * Self-Supervised ASR Models and Features for Dysarthric and Elderly Speech Recognition in *TASLP* 2024, [\[paper\]](https://arxiv.org/abs/2407.13782)
 
 * Personalized Adversarial Data Augmentation for Dysarthric and Elderly Speech Recognition in *TASLP* 2024, [\[paper\]](https://arxiv.org/abs/2205.06445)
 * Speaker Adaptation Using Spectro-Temporal Deep Features for Dysarthric and Elderly Speech Recognition in *TASLP* 2022, [\[paper\]](https://arxiv.org/abs/2202.10290)
-* 
+* Detecting Neurocognitive Disorders through Analyses of Topic Evolution and Cross-modal Consistency in Visual-Stimulated Narratives in *arxiv* 2025, [\[paper\]](https://arxiv.org/pdf/2501.03727)
 
-## Conference paper
+## Conference paper & preprint
+
+### 2025
+
+* Phone-purity Guided Discrete Tokens for Dysarthric Speech Recognition in *ICASSP* 2025, [\[paper\]](https://arxiv.org/pdf/2501.04379)
 
 ### 2024
 
@@ -22,6 +26,10 @@ There are some papers about Disordered Speech, Dysarthric and Elderly Speech.
 * Exploiting Audio-Visual Features with Pretrained AV-HuBERT for Multi-Modal Dysarthric Speech Reconstruction in *ICASSP* 2024, [\[paper\]](https://arxiv.org/abs/2401.17796)
 * Perceiver-Prompt: Flexible Speaker Adaptation in Whisper for Chinese Disordered Speech Recognition in *InterSpeech* 2024, [\[paper\]](https://arxiv.org/abs/2406.09873)
 * Towards Automatic Data Augmentation for Disordered Speech Recognition in *ICASSP* 2024, [\[paper\]](https://arxiv.org/abs/2312.08641)
+* Not All Errors Are Equal: Investigation of Speech Recognition Errors in Alzheimer’s Disease Detection in *ISCSLP* 2024, [\[paper\]](https://arxiv.org/pdf/2412.06332)
+* Structured Speaker-Deficiency Adaptation of Foundation Models for Dysarthric and Elderly Speech Recognition in *arxiv* 2024, [\[paper\]](https://arxiv.org/pdf/2412.18832)
+* Devising a Set of Compact and Explainable Spoken Language Feature for Screening Alzheimer’s Disease in *ISCSLP* 2024, [\[paper\]](https://arxiv.org/pdf/2411.18922)
+* Towards Within-Class Variation in Alzheimer’s Disease Detection from Spontaneous Speech in *arxiv* 2024, [\[paper\]](https://arxiv.org/pdf/2409.16322)
 
 ### 2023
 
