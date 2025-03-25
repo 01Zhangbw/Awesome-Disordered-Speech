@@ -9,10 +9,10 @@ There are some papers about Disordered Speech, Dysarthric and Elderly Speech or 
 ## Journal paper & preprint
 
 * Self-Supervised ASR Models and Features for Dysarthric and Elderly Speech Recognition in *TASLP* 2024, [\[paper\]](https://arxiv.org/abs/2407.13782)
-
 * Personalized Adversarial Data Augmentation for Dysarthric and Elderly Speech Recognition in *TASLP* 2024, [\[paper\]](https://arxiv.org/abs/2205.06445)
 * Speaker Adaptation Using Spectro-Temporal Deep Features for Dysarthric and Elderly Speech Recognition in *TASLP* 2022, [\[paper\]](https://arxiv.org/abs/2202.10290)
 * Detecting Neurocognitive Disorders through Analyses of Topic Evolution and Cross-modal Consistency in Visual-Stimulated Narratives in *arxiv* 2025, [\[paper\]](https://arxiv.org/pdf/2501.03727)
+* [Homogeneous Speaker Features for on-the-Fly Dysarthric and Elderly Speaker Adaptation and Speech Recognition](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=5_9jk8AAAAAJ&sortby=pubdate&citation_for_view=5_9jk8AAAAAJ:mtdGyXoswmMC), TASLP2025, [arxiv](https://arxiv.org/abs/2407.06310)
 
 ## Conference paper & preprint
 
