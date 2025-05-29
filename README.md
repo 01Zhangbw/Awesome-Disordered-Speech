@@ -19,7 +19,7 @@ There are some papers about Disordered Speech, Dysarthric and Elderly Speech or 
 ### 2025
 
 * Phone-purity Guided Discrete Tokens for Dysarthric Speech Recognition in *ICASSP* 2025, [\[paper\]](https://arxiv.org/pdf/2501.04379)
-
+* On-the-fly Routing for Zero-shot MoE Speaker Adaptation of Speech Foundation Models for Dysarthric Speech Recognition in *INTERSPEECH* 2025, [paper](https://arxiv.org/abs/2505.22072v1)
 ### 2024
 
 * Enhancing Pre-trained ASR System Fine-tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation in *ICASSP* 2024, [\[paper\]](https://arxiv.org/abs/2401.00662)
