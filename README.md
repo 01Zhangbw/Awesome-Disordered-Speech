@@ -1,5 +1,5 @@
 # Awesome-Disordered-Speech
-There are some papers about Disordered Speech, Dysarthric and Elderly Speech or Alzheimer’s Disease.
+There are some papers about Disordered Speech, Dysarthric and Elderly Speech.
 ## Survey paper
 * Recent Progress in the CUHK Dysarthric Speech Recognition System in *TASLP* 2021, [\[paper\]](https://arxiv.org/abs/2201.05845)
 ## Journal paper & preprint
@@ -8,11 +8,13 @@ There are some papers about Disordered Speech, Dysarthric and Elderly Speech or 
 * Speaker Adaptation Using Spectro-Temporal Deep Features for Dysarthric and Elderly Speech Recognition in *TASLP* 2022, [\[paper\]](https://arxiv.org/abs/2202.10290)
 * Detecting Neurocognitive Disorders through Analyses of Topic Evolution and Cross-modal Consistency in Visual-Stimulated Narratives in *arxiv* 2025, [\[paper\]](https://arxiv.org/pdf/2501.03727)
 * [Homogeneous Speaker Features for on-the-Fly Dysarthric and Elderly Speaker Adaptation and Speech Recognition](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=5_9jk8AAAAAJ&sortby=pubdate&citation_for_view=5_9jk8AAAAAJ:mtdGyXoswmMC), TASLP2025, [arxiv](https://arxiv.org/abs/2407.06310)
+* Exploring Cross-Utterance Speech Contexts for Conformer-Transducer Speech Recognition Systems, [TASLP25](https://arxiv.org/pdf/2508.10456)
 ## Conference paper & preprint
 ### 2025
 * Phone-purity Guided Discrete Tokens for Dysarthric Speech Recognition in *ICASSP* 2025, [\[paper\]](https://arxiv.org/pdf/2501.04379)
 * On-the-fly Routing for Zero-shot MoE Speaker Adaptation of Speech Foundation Models for Dysarthric Speech Recognition in *INTERSPEECH* 2025, [paper](https://arxiv.org/abs/2505.22072v1)
 * MOPSA: Mixture of Prompt-Experts Based Speaker Adaptation for Elderly Speech Recognition, https://arxiv.org/abs/2505.24224
+* Regularized Federated Learning for Privacy-Preserving Dysarthric and Elderly Speech Recognition, https://arxiv.org/abs/2506.11069
 ### 2024
 * Enhancing Pre-trained ASR System Fine-tuning for Dysarthric Speech Recognition using Adversarial Data Augmentation in *ICASSP* 2024, [\[paper\]](https://arxiv.org/abs/2401.00662)
 * Exploiting Audio-Visual Features with Pretrained AV-HuBERT for Multi-Modal Dysarthric Speech Reconstruction in *ICASSP* 2024, [\[paper\]](https://arxiv.org/abs/2401.17796)
